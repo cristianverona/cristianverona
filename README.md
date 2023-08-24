@@ -27,7 +27,7 @@ I hope these projects prove to be helpful and intriguing to anyone curious about
 
 ## Job Opportunities 🌐
 
-I am always on the lookout for interesting job opportunities in the field of Data Science. 
+I am always on the lookout for interesting job opportunities in the field of Data Science and Chemistry. 
 If you find my profile intriguing and think we can collaborate, please feel free to reach out to me via email or Linkedin.
 I am open to discussions, collaborative projects, or any other opportunities that may arise.
 

@@ -1,13 +1,12 @@
 # Portfolio of Cristian 👨‍🔬📊🚀
 
 Welcome to my portfolio! I am a Chemistry graduate with a strong passion for the world of data. 
-I have successfully completed a Master's in Data Science and currently work as an Analytical Chemist in the pharmaceutical industry. 
-I am excited to share some of the projects I have worked on with the community.
+I have successfully completed a Master's in Data Science and I am excited to share some of the projects I have worked on with the community.
 
 ## About Me 🙋‍♂️
 
 - Graduated in Chemistry from University of Trieste with a strong background in quantitative analysis and complex problem-solving.
-- Currently employed as an Analytical Chemist in the pharmaceutical industry.
+- Looking for new exciting working opportunity.
 - Enthusiastic about the field of Data Science and its applications across various domains.
 - Successfully completed a Master's in Data Science, gaining advanced skills in data analysis and machine learning.
 - Eager to continuously learn and improve my expertise in the field of Data Science.
